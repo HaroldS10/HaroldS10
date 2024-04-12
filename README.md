@@ -18,6 +18,19 @@
    💎 I'm passionate about the Back-end as much as the Front-end, dynamic programming and design thinking.
 
 
+
+Social Media 🔗 :
+<marquee direction="left">
+<p align='center'>
+<a href="mailto:haroldssbernal@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/harold-suarez-ab7075298/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
+</p>
+
+
 ## Github Contribution Streak 🔥 
 <br>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=HaroldS10&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
@@ -114,22 +127,6 @@ Version Control 🔧 :
 <p align='center'>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-</p>
-</marquee>
-</details>
-
-<details  style="user-select: none;">
-<summary>
-Social Media 🔗 :
-</summary>
-<marquee direction="left">
-<p align='center'>
-<a href="mailto:haroldssbernal@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/harold-suarez-ab7075298/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
 </p>
 </marquee>
 </details>
